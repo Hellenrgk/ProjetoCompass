@@ -1,13 +1,13 @@
 # PROJETO PRÁTICO LINUX COM WSL, CompassUOL
 
-# Requisitos
+# Requisitos.
  Windows 10 ou superior
  
  WSL (Windows Subsystem for Linux)
  
  Ubuntu 20.04 ou superior
  
- # Objetivo
+ # Objetivo.
  Criar o subsistema Linux (WSL):
 
 Instalar o WSL no Windows.
