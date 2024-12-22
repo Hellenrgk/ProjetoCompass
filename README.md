@@ -160,14 +160,14 @@ cd ~/scripts
 
 ![cdscript](https://github.com/user-attachments/assets/d791ea3d-9c2b-408f-a27b-ece99fe2a373)
 
-# Obs: Agora, dentro do diretório scripts, você está pronto para criar o arquivo de shell script de verificação.
+Obs: Agora, dentro do diretório scripts, você está pronto para criar o arquivo de shell script de verificação.
 # Passo 3: Criar o arquivo usando o editor Nano.
 No terminal, utilize o comando:
 nano valida_nginx.sh
 
 ![nano](https://github.com/user-attachments/assets/8e56b695-3bf9-48d0-8b88-ed623c83d7f4)
 
-# Obs: O sufixo .sh não é obrigatório, mas é uma convenção amplamente utilizada para indicar que o arquivo se trata de um shell script. Isso facilita a identificação e é considerado uma boa prática.
+Obs: O sufixo .sh não é obrigatório, mas é uma convenção amplamente utilizada para indicar que o arquivo se trata de um shell script. Isso facilita a identificação e é considerado uma boa prática.
 # Passo 4: Escrever o script de validação
 Com o arquivo aberto para edição, criei um script que valida (verifica) se o serviço está online. O script deve enviar o resultado dessa validação para um diretório que eu definir.
 
@@ -204,7 +204,7 @@ Se o Nginx estiver offline, o log offline.log
  
  ![print8 offline](https://github.com/user-attachments/assets/21eac10e-ec8b-4dc6-8a97-19f029acf1e1)
  
- # Obs: Aqui já podemos ver que o cron está configurado automaticamente para executar o script a cada 5 minutos, atualizando ambos os logs: online.log e offline.log, dependendo do status do serviço.
+ Obs: Aqui já podemos ver que o cron está configurado automaticamente para executar o script a cada 5 minutos, atualizando ambos os logs: online.log e offline.log, dependendo do status do serviço.
 
  # 5. Automatização da Execução do Script.
 Configure a execução automatizada do script a cada 5 minutos. Para isso, utilize o cron.
