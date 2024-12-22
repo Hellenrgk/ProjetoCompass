@@ -7,7 +7,7 @@
  
  Ubuntu 20.04 ou superior
  
- # Objetivos
+ # Objetivo
  Criar o subsistema Linux (WSL):
 
 Instalar o WSL no Windows.
