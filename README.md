@@ -2,7 +2,9 @@
 
 # Requisitos
  Windows 10 ou superior
+ 
  WSL (Windows Subsystem for Linux)
+ 
  Ubuntu 20.04 ou superior
  
  # Objetivos
