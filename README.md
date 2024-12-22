@@ -34,6 +34,7 @@ Documentação:
  # 1. Ativação do WSL.
  Para a ativação do WSL (Windows Subsystem for Linux) no Windows, você deve seguir os seguintes passos. 
  # Passo 1. Utilizando o PowerShell.
+ 
  1. Abra o PowerShell com permissões de administrador e execute o seguinte comando:
     
  2. ![wsl](https://github.com/user-attachments/assets/f07d9e8d-0d6a-4caf-8d6a-68c74cc9f745)
